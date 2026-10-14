@@ -1,0 +1,407 @@
+{
+ "_about": "Rows. id = label shown on the page. sfe = column header on sfendorsements.com, ob = ballot item slug on openballot.app. judicial rows aggregate the retention tables.",
+ "races": [
+  {
+   "id": "Governor",
+   "section": "Statewide offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Governor",
+   "ob": "governor"
+  },
+  {
+   "id": "Lieutenant Governor",
+   "section": "Statewide offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Lieutenant Governor",
+   "ob": "lieutenant-governor"
+  },
+  {
+   "id": "Secretary of State",
+   "section": "Statewide offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Secretary of State",
+   "ob": "secretary-of-state"
+  },
+  {
+   "id": "Controller",
+   "section": "Statewide offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Controller",
+   "ob": "controller"
+  },
+  {
+   "id": "Treasurer",
+   "section": "Statewide offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Treasurer",
+   "ob": "treasurer"
+  },
+  {
+   "id": "Attorney General",
+   "section": "Statewide offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Attorney General",
+   "ob": "attorney-general"
+  },
+  {
+   "id": "U.S. House CA-11",
+   "section": "Congress & State Assembly",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "House CA-11",
+   "ob": "u-s-representative-district-11"
+  },
+  {
+   "id": "U.S. House CA-15",
+   "section": "Congress & State Assembly",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "House CA-15",
+   "ob": "u-s-representative-district-15"
+  },
+  {
+   "id": "State Assembly 17",
+   "section": "Congress & State Assembly",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "State Assembly 17",
+   "ob": "state-assembly-district-17"
+  },
+  {
+   "id": "State Assembly 19",
+   "section": "Congress & State Assembly",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "State Assembly 19",
+   "ob": "state-assembly-district-19"
+  },
+  {
+   "id": "Insurance Commissioner",
+   "section": "Statewide offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Insurance Commissioner",
+   "ob": "insurance-commissioner"
+  },
+  {
+   "id": "Board of Equalization, D2",
+   "section": "Statewide offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Member of the Board of Equalization, District 2",
+   "ob": "state-board-of-equalization-district-2"
+  },
+  {
+   "id": "State Superintendent of Public Instruction",
+   "section": "Statewide offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "State Superintendent of Public Instruction",
+   "ob": "superintendent-of-public-instruction"
+  },
+  {
+   "id": "Assessor-Recorder",
+   "section": "San Francisco offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Assessor-Recorder",
+   "ob": "assessor-recorder"
+  },
+  {
+   "id": "Public Defender",
+   "section": "San Francisco offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Public Defender",
+   "ob": "public-defender"
+  },
+  {
+   "id": "Supervisor, District 2",
+   "section": "San Francisco offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "District 2 Supervisor",
+   "ob": "board-of-supervisors-district-2"
+  },
+  {
+   "id": "Supervisor, District 4",
+   "section": "San Francisco offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "District 4 Supervisor",
+   "ob": "board-of-supervisors-district-4"
+  },
+  {
+   "id": "Supervisor, District 6",
+   "section": "San Francisco offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "District 6 Supervisor",
+   "ob": "board-of-supervisors-district-6"
+  },
+  {
+   "id": "Supervisor, District 8",
+   "section": "San Francisco offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "District 8 Supervisor",
+   "ob": "board-of-supervisors-district-8",
+   "note": "Manny Yekutiel ended his campaign on Oct 1 but remains on the ballot; endorsements he received are left as published."
+  },
+  {
+   "id": "Supervisor, District 10",
+   "section": "San Francisco offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "District 10 Supervisor",
+   "ob": "board-of-supervisors-district-10"
+  },
+  {
+   "id": "Board of Education (3 seats)",
+   "section": "San Francisco offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Board of Education (three seats)",
+   "ob": "board-of-education"
+  },
+  {
+   "id": "Community College Board, full term (3 seats)",
+   "section": "San Francisco offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Community College Board (three seats, term ending January 8, 2031)",
+   "ob": "community-college-board"
+  },
+  {
+   "id": "Community College Board, partial term",
+   "section": "San Francisco offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "Community College Board (remainder of term ending January 8, 2029)",
+   "ob": "community-college-board-partial-term"
+  },
+  {
+   "id": "BART Board, District 8",
+   "section": "San Francisco offices",
+   "kind": "cand",
+   "desc": null,
+   "sfe": "BART Board, District 8",
+   "ob": "bart-board-of-directors-district-8"
+  },
+  {
+   "id": "Prop 1",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "$11.25B housing bond (affordable housing + CalVet loans)",
+   "sfe": "Prop 1",
+   "ob": "proposition-1"
+  },
+  {
+   "id": "Prop 2",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "Raise rainy-day fund cap to 20%",
+   "sfe": "Prop 2",
+   "ob": "proposition-2"
+  },
+  {
+   "id": "Prop 3",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "Make top income-tax rates permanent",
+   "sfe": "Prop 3",
+   "ob": "proposition-3"
+  },
+  {
+   "id": "Prop 4",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "Lift ban on public campaign financing",
+   "sfe": "Prop 4",
+   "ob": "proposition-4"
+  },
+  {
+   "id": "Prop 5",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "End two-question recall ballot for state officers",
+   "sfe": "Prop 5",
+   "ob": "proposition-5"
+  },
+  {
+   "id": "Prop 37",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "$25B bond for affordable second mortgages",
+   "sfe": "Prop 37",
+   "ob": "proposition-37"
+  },
+  {
+   "id": "Prop 38",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "$8.4B bond for immunology research",
+   "sfe": "Prop 38",
+   "ob": "proposition-38"
+  },
+  {
+   "id": "Prop 39",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "Photo ID and citizenship verification to vote",
+   "sfe": "Prop 39",
+   "ob": "proposition-39"
+  },
+  {
+   "id": "Prop 40",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "5% wealth tax on billionaires",
+   "sfe": "Prop 40",
+   "ob": "proposition-40"
+  },
+  {
+   "id": "Prop 41",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "Audits of new special taxes; limit spending exemptions",
+   "sfe": "Prop 41",
+   "ob": "proposition-41"
+  },
+  {
+   "id": "Prop 42",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "Bar future asset and wealth taxes",
+   "sfe": "Prop 42",
+   "ob": "proposition-42"
+  },
+  {
+   "id": "Prop 43",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "Two-thirds vote for local special taxes",
+   "sfe": "Prop 43",
+   "ob": "proposition-43"
+  },
+  {
+   "id": "Prop 44",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "Clinics must spend 90% on patient care",
+   "sfe": "Prop 44",
+   "ob": "proposition-44"
+  },
+  {
+   "id": "Prop 45",
+   "section": "California propositions",
+   "kind": "prop",
+   "desc": "Fast-track essential projects through CEQA",
+   "sfe": "Prop 45",
+   "ob": "proposition-45"
+  },
+  {
+   "id": "Prop A",
+   "section": "San Francisco propositions",
+   "kind": "prop",
+   "desc": "Charter changes affecting various city departments and commissions",
+   "sfe": "Prop A",
+   "ob": "proposition-a"
+  },
+  {
+   "id": "Prop B",
+   "section": "San Francisco propositions",
+   "kind": "prop",
+   "desc": "Municipal finance corporation and public bank",
+   "sfe": "Prop B",
+   "ob": "proposition-b"
+  },
+  {
+   "id": "Prop C",
+   "section": "San Francisco propositions",
+   "kind": "prop",
+   "desc": "Contributions to the Housing Fund",
+   "sfe": "Prop C",
+   "ob": "proposition-c"
+  },
+  {
+   "id": "Prop D",
+   "section": "San Francisco propositions",
+   "kind": "prop",
+   "desc": "Changes to the ballot measure process",
+   "sfe": "Prop D",
+   "ob": "proposition-d"
+  },
+  {
+   "id": "Prop E",
+   "section": "San Francisco propositions",
+   "kind": "prop",
+   "desc": "City Administrator's authority and city contracting",
+   "sfe": "Prop E",
+   "ob": "proposition-e"
+  },
+  {
+   "id": "Prop F",
+   "section": "San Francisco propositions",
+   "kind": "prop",
+   "desc": "Changes to executive branch management",
+   "sfe": "Prop F",
+   "ob": "proposition-f"
+  },
+  {
+   "id": "Prop G",
+   "section": "San Francisco propositions",
+   "kind": "prop",
+   "desc": "Allow private vehicles on the Great Highway in Sunset Dunes park",
+   "sfe": "Prop G",
+   "ob": "proposition-g"
+  },
+  {
+   "id": "Prop H",
+   "section": "San Francisco propositions",
+   "kind": "prop",
+   "desc": "Parcel tax to fund Muni operations",
+   "sfe": "Prop H",
+   "ob": "proposition-h"
+  },
+  {
+   "id": "Prop I",
+   "section": "San Francisco propositions",
+   "kind": "prop",
+   "desc": "Changes to the real property transfer tax",
+   "sfe": "Prop I",
+   "ob": "proposition-i"
+  },
+  {
+   "id": "Prop J",
+   "section": "San Francisco propositions",
+   "kind": "prop",
+   "desc": "Remove foreclosure exemption from the transfer tax",
+   "sfe": "Prop J",
+   "ob": "proposition-j"
+  },
+  {
+   "id": "Regional Measure RTM",
+   "section": "San Francisco propositions",
+   "kind": "prop",
+   "desc": "Regional sales tax for Bay Area transit (BART, Muni, Caltrain, AC Transit)",
+   "sfe": "Regional Transit Measure",
+   "ob": "proposition-rtm"
+  },
+  {
+   "id": "Judicial retention",
+   "section": "Statewide offices",
+   "kind": "prop",
+   "desc": "Retain all CA Supreme Court and 1st District Court of Appeal justices on the ballot",
+   "sfe": null,
+   "ob": null,
+   "judicial": true
+  }
+ ]
+}

@@ -1,0 +1,454 @@
+{
+ "_about": "Organizations shown as columns. sfe = name on sfendorsements.com, ob = brand name on openballot.app. bloc: prog|mod|civic|gop (used for the cross-camp consensus test). featured = tinted columns shown first. url overrides the auto-detected voter-guide link. no_logo = show initials instead of the OpenBallot image.",
+ "exclude_openballot": [
+  "Alex",
+  "Keith Kurson",
+  "Lucas Wells",
+  "Rosa Lux",
+  "Brandon Powell",
+  "Stuart Schuffman",
+  "Test Guide",
+  "KQED",
+  "San Francisco Public Press"
+ ],
+ "orgs": [
+  {
+   "name": "League of Pissed Off Voters",
+   "sfe": "SF League of Pissed Off Voters",
+   "ob": "SF League of Pissed Off Voters",
+   "bloc": "prog",
+   "featured": true
+  },
+  {
+   "name": "League of Women Voters",
+   "sfe": "League of Women Voters of SF",
+   "ob": "League of Women Voters of San Francisco",
+   "bloc": "civic",
+   "featured": true
+  },
+  {
+   "name": "SF Chronicle",
+   "sfe": "San Francisco Chronicle",
+   "ob": "San Francisco Chronicle",
+   "bloc": "mod",
+   "featured": true,
+   "url": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/"
+  },
+  {
+   "name": "SPUR",
+   "sfe": "SPUR (Planning / Urban Research Association)",
+   "ob": "SPUR",
+   "bloc": "civic",
+   "featured": true
+  },
+  {
+   "name": "GrowSF",
+   "sfe": "GrowSF",
+   "ob": "GrowSF",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "Blueprint SF (fka TogetherSF)",
+   "sfe": "Blueprint SF",
+   "ob": "Blueprint for a Better San Francisco",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "YIMBY Action",
+   "sfe": "YIMBY Action",
+   "ob": "YIMBY Action",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "Abundance Network",
+   "sfe": "Abundance Network",
+   "ob": "Abundant SF",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "Housing Action Coalition",
+   "sfe": "Housing Action Coalition",
+   "ob": "San Francisco Housing Action Coalition",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "United Democratic Club",
+   "sfe": "United Democratic Club",
+   "ob": "United Democratic Club of San Francisco",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "Alice B. Toklas Club",
+   "sfe": "Alice B. Toklas LGBTQ Democratic Club",
+   "ob": "Alice B Toklas LGBTQ Democratic Club",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "Ed Lee Dem Club",
+   "sfe": "Edwin M. Lee Asian Pacific Democratic Club",
+   "ob": "Edwin M. Lee Asian Pacific Democratic Club",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "Chinese American Dem Club",
+   "sfe": "Chinese American Democratic Club",
+   "ob": "Chinese American Democratic Club",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "Eastern Neighborhoods Dems",
+   "sfe": "Eastern Neighborhoods Democratic Club",
+   "ob": "San Francisco Eastern Neighborhoods Democratic Club",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "Westside Family Dems",
+   "sfe": "Westside Family Democratic Club",
+   "ob": "Westside Family Democratic Club",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "Noe Valley Dems",
+   "sfe": "Noe Valley Democratic Club",
+   "ob": "Noe Valley Democratic Club",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "SF Parent Action",
+   "sfe": "San Francisco Parent Action",
+   "ob": "SF Parents Action",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "Bay Area Council",
+   "sfe": null,
+   "ob": "Bay Area Council",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "sf.citi",
+   "sfe": null,
+   "ob": "sf.citi",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "Bay Area Reporter",
+   "sfe": null,
+   "ob": "Bay Area Reporter",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "SF Chamber of Commerce",
+   "sfe": null,
+   "ob": "San Francisco Chamber of Commerce",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "ConnectedSF",
+   "sfe": null,
+   "ob": "ConnectedSF",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "SF Briones Society",
+   "sfe": null,
+   "ob": "San Francisco Briones Society",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "SF YIMBY",
+   "sfe": null,
+   "ob": "San Francisco YIMBY",
+   "bloc": "mod",
+   "featured": false
+  },
+  {
+   "name": "Harvey Milk Club",
+   "sfe": "Harvey Milk LGBTQ Democratic Club",
+   "ob": "Harvey Milk LGBTQ Democratic Club",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "SF Tenants Union",
+   "sfe": "SF Tenants Union",
+   "ob": "San Francisco Tenants Union",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "SF Rising Action",
+   "sfe": "SF Rising Action",
+   "ob": "SF Rising Action",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "SF Green Party",
+   "sfe": "Green Party (SF)",
+   "ob": "San Francisco Green Party",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "SEIU 1021",
+   "sfe": "SEIU 1021",
+   "ob": "SEIU Local 1021",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "SF Labor Council",
+   "sfe": "SF Labor Council",
+   "ob": "San Francisco Labor Council",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "United Educators of SF",
+   "sfe": "United Educators of San Francisco",
+   "ob": "United Educators of San Francisco",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Westside Forward",
+   "sfe": "Westside Forward",
+   "ob": null,
+   "bloc": "prog",
+   "featured": false,
+   "url": "https://westsideforwardsf.org/"
+  },
+  {
+   "name": "REP-SF",
+   "sfe": null,
+   "ob": "REP-SF",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Chinese for Affirmative Action",
+   "sfe": null,
+   "ob": "Chinese for Affirmative Action",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "IFPTE Local 21",
+   "sfe": null,
+   "ob": "IFPTE Local 21",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Greenbelt Alliance",
+   "sfe": null,
+   "ob": "Greenbelt Alliance",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "DSA San Francisco",
+   "sfe": null,
+   "ob": "DSA San Francisco",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Livable City",
+   "sfe": null,
+   "ob": "Livable City",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "SF Solidarity Club",
+   "sfe": null,
+   "ob": "SF Solidarity Club",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Indivisible SF",
+   "sfe": null,
+   "ob": "Indivisible SF",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Chinese Progressive Assn",
+   "sfe": null,
+   "ob": "Chinese Progressive Association",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "UNITE HERE Local 2",
+   "sfe": null,
+   "ob": "UNITE HERE Local 2",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "District 11 Dem Club",
+   "sfe": null,
+   "ob": "San Francisco District 11 Democratic Club",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Teamsters Joint Council 7",
+   "sfe": null,
+   "ob": "Teamsters Joint Council 7",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Faith in Action Bay Area",
+   "sfe": null,
+   "ob": "Faith in Action Bay Area Immigrant Leaders",
+   "bloc": "prog",
+   "featured": false,
+   "no_logo": true
+  },
+  {
+   "name": "Council of Community Housing Orgs",
+   "sfe": null,
+   "ob": "Council of Community Housing Organizations",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Transform",
+   "sfe": null,
+   "ob": "Transform",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "United Way Bay Area",
+   "sfe": null,
+   "ob": "United Way Bay Area",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Haight Ashbury Neighborhood Cncl",
+   "sfe": null,
+   "ob": "Haight Ashbury Neighborhood Council",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Senior & Disability Action",
+   "sfe": null,
+   "ob": "Senior and Disability Action",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "SF Democratic Party",
+   "sfe": "Democratic Party (SF)",
+   "ob": "San Francisco Democratic Party",
+   "bloc": "civic",
+   "featured": false
+  },
+  {
+   "name": "Sierra Club SF Bay",
+   "sfe": "Sierra Club",
+   "ob": "Sierra Club San Francisco Bay",
+   "bloc": "civic",
+   "featured": false
+  },
+  {
+   "name": "SF League of Conservation Voters",
+   "sfe": "SF League of Conservation Voters",
+   "ob": "San Francisco League of Conservation Voters",
+   "bloc": "civic",
+   "featured": false
+  },
+  {
+   "name": "SF Bicycle Coalition",
+   "sfe": "SF Bicycle Coalition",
+   "ob": "San Francisco Bicycle Coalition",
+   "bloc": "civic",
+   "featured": false
+  },
+  {
+   "name": "SF Women's Political Cmte",
+   "sfe": "SF Women's Political Committee",
+   "ob": "San Francisco Women's Political Committee",
+   "bloc": "civic",
+   "featured": false
+  },
+  {
+   "name": "Potrero Hill Dems",
+   "sfe": "Potrero Hill Democratic Club",
+   "ob": "Potrero Hill Democratic Club",
+   "bloc": "civic",
+   "featured": false
+  },
+  {
+   "name": "Seamless Bay Area",
+   "sfe": null,
+   "ob": "Seamless Bay Area",
+   "bloc": "civic",
+   "featured": false
+  },
+  {
+   "name": "AFT 2121",
+   "sfe": null,
+   "ob": "AFT 2121",
+   "bloc": "civic",
+   "featured": false
+  },
+  {
+   "name": "SF Building Trades Council",
+   "sfe": null,
+   "ob": "San Francisco Building and Construction Trades Council",
+   "bloc": "civic",
+   "featured": false
+  },
+  {
+   "name": "Walk San Francisco",
+   "sfe": null,
+   "ob": "Walk San Francisco",
+   "bloc": "civic",
+   "featured": false
+  },
+  {
+   "name": "SF Republican Party",
+   "sfe": "SF Republican Party",
+   "ob": "San Francisco Republican Party",
+   "bloc": "gop",
+   "featured": false
+  },
+  {
+   "name": "SF Young Republicans",
+   "sfe": "SF Young Republicans",
+   "ob": null,
+   "bloc": "gop",
+   "featured": false,
+   "url": "https://sfendorsements.com/"
+  }
+ ]
+}

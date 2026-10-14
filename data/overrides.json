@@ -1,0 +1,87 @@
+{
+ "_about": "Manual corrections applied after merging sources. Use for positions an organization published on its own site that the aggregators have not picked up yet. value: \"Yes\"/\"No\" for measures, list of names for races, null to remove.",
+ "notice": "The Chronicle is still publishing endorsements (D8, D10, Props F, J and 40 are pending), so its column is incomplete.",
+ "names": {
+  "Manohar Raju": "Mano Raju",
+  "Emanuel \"Manny\" Yekutiel": "Manny Yekutiel",
+  "Dionjay Brookter": "Dion-Jay \"DJ\" Brookter",
+  "Laurance Lem Lee": "Laurance Lee",
+  "Jeremy Julian Greco": "Jeremy Greco",
+  "Pearci Bastiany": "Pearci \"PJ\" Bastiany III",
+  "Joaquín Torres": "Joaquin Torres"
+ },
+ "positions": [
+  {
+   "org": "SF Democratic Party",
+   "race": "Supervisor, District 8",
+   "value": [
+    "Gary McCoy"
+   ],
+   "source": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
+   "added": "2026-10-12"
+  },
+  {
+   "org": "SF Democratic Party",
+   "race": "Prop 2",
+   "value": "Yes",
+   "source": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
+   "added": "2026-10-12"
+  },
+  {
+   "org": "SF Democratic Party",
+   "race": "Prop 4",
+   "value": "Yes",
+   "source": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
+   "added": "2026-10-12"
+  },
+  {
+   "org": "SF Democratic Party",
+   "race": "Prop 5",
+   "value": "Yes",
+   "source": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
+   "added": "2026-10-12"
+  },
+  {
+   "org": "SF Democratic Party",
+   "race": "Prop 37",
+   "value": "Yes",
+   "source": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
+   "added": "2026-10-12"
+  },
+  {
+   "org": "SF Democratic Party",
+   "race": "Prop 38",
+   "value": "Yes",
+   "source": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
+   "added": "2026-10-12"
+  },
+  {
+   "org": "SF Democratic Party",
+   "race": "Prop 41",
+   "value": "No",
+   "source": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
+   "added": "2026-10-12"
+  },
+  {
+   "org": "SF Democratic Party",
+   "race": "Prop 42",
+   "value": "No",
+   "source": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
+   "added": "2026-10-12"
+  },
+  {
+   "org": "SF Democratic Party",
+   "race": "Prop 44",
+   "value": "No",
+   "source": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
+   "added": "2026-10-12"
+  },
+  {
+   "org": "SF Democratic Party",
+   "race": "Prop 45",
+   "value": "No",
+   "source": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
+   "added": "2026-10-12"
+  }
+ ]
+}
