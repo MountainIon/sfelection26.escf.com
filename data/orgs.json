@@ -162,7 +162,7 @@
   },
   {
    "name": "ConnectedSF",
-   "sfe": null,
+   "sfe": "ConnectedSF",
    "ob": "ConnectedSF",
    "bloc": "mod",
    "featured": false
@@ -310,7 +310,7 @@
   },
   {
    "name": "District 11 Dem Club",
-   "sfe": null,
+   "sfe": "District 11 Democratic Club",
    "ob": "San Francisco District 11 Democratic Club",
    "bloc": "prog",
    "featured": false
@@ -449,6 +449,48 @@
    "bloc": "gop",
    "featured": false,
    "url": "https://sfendorsements.com/"
+  },
+  {
+   "name": "SF Bay Guardian",
+   "sfe": "San Francisco Bay Guardian",
+   "ob": "San Francisco Bay Guardian",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Home Sharers Dem Club",
+   "sfe": "Home Sharers Democratic Club",
+   "ob": "Home Sharers Democratic Club",
+   "bloc": "civic",
+   "featured": false
+  },
+  {
+   "name": "GLIDE",
+   "sfe": null,
+   "ob": "GLIDE",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "SF for Social Housing",
+   "sfe": null,
+   "ob": "San Franciscans for Social Housing",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "SF Affordable Housing Alliance",
+   "sfe": null,
+   "ob": "San Francisco Affordable Housing Alliance",
+   "bloc": "prog",
+   "featured": false
+  },
+  {
+   "name": "Streets For All SF",
+   "sfe": null,
+   "ob": "Streets For All SF",
+   "bloc": "civic",
+   "featured": false
   }
  ]
 }

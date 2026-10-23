@@ -123,7 +123,7 @@ td.cell .names{display:grid;gap:2px;font-size:11.5px;line-height:1.2;color:var(-
 td.cell .names span.hl{background:var(--hl-soft);color:var(--ink);border-radius:2px;padding:0 2px}
 tr.race.isbroad .stub{box-shadow:inset 4px 0 0 var(--hl)}
 tr.race:hover td,tr.race:hover .stub{background-image:linear-gradient(var(--rule-2),var(--rule-2))}
-tr.race:target .stub{outline:2px solid var(--hl);outline-offset:-2px}
+tr.race:target .stub,tr.race.flash .stub{outline:2px solid var(--hl);outline-offset:-2px}
 .note{font-size:11.5px;color:var(--ink-3);margin-top:5px;font-style:italic}
 footer{margin-top:34px;display:grid;gap:14px;max-width:80ch;color:var(--ink-2);font-size:13.5px}
 footer h2{font-size:18px;color:var(--ink)}
@@ -293,8 +293,29 @@ function renderAgree(){
 }
 document.getElementById('preset').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;preset=b.dataset.p;render()});
 document.getElementById('onlyBroad').addEventListener('change',e=>{onlyBroad=e.target.checked;render()});
-document.getElementById('agree').addEventListener('click',e=>{const a=e.target.closest('a');if(a&&onlyBroad===false)return;if(a){onlyBroad=false;render()}});
+// The table scrolls inside its own box under a tall locked header, so a plain #anchor jump
+// hides the target row behind the header. Scroll the page to the table, then the table to the row.
+function goToRow(id,smooth){
+  let row=document.getElementById(id);
+  if(!row&&onlyBroad){onlyBroad=false;render();row=document.getElementById(id)}
+  if(!row||!row.classList.contains('race')) return false;
+  const sc=document.querySelector('.scroller'), head=sc.querySelector('thead'), bar=document.querySelector('.controls');
+  const behavior=smooth&&!matchMedia('(prefers-reduced-motion: reduce)').matches?'smooth':'auto';
+  const barH=bar?bar.getBoundingClientRect().height:0;
+  window.scrollTo({top:window.scrollY+sc.getBoundingClientRect().top-barH-8,behavior});
+  const rowTop=row.getBoundingClientRect().top-sc.getBoundingClientRect().top+sc.scrollTop;
+  sc.scrollTo({top:Math.max(0,rowTop-head.getBoundingClientRect().height-6),behavior});
+  document.querySelectorAll('tr.race.flash').forEach(r=>r.classList.remove('flash'));
+  row.classList.add('flash');
+  try{history.replaceState(null,'','#'+id)}catch(e){}
+  return true;
+}
+document.getElementById('agree').addEventListener('click',e=>{
+  const a=e.target.closest('a[href^="#"]'); if(!a) return;
+  if(goToRow(a.getAttribute('href').slice(1),true)) e.preventDefault();
+});
 renderAgree();render();
+window.addEventListener('load',()=>{if(location.hash.length>1) goToRow(decodeURIComponent(location.hash.slice(1)),false)});
 </script>
 
 

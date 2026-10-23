@@ -236,25 +236,52 @@ def build(offline):
 
     notes = {"new_orgs": [], "skipped": [], "conflicts": [], "warnings": [], "unused_overrides": []}
 
-    # --- organizations: registry plus anything new on either source
+    # --- organizations: registry plus anything new on either source.
+    # The same group often appears on both sources under slightly different names
+    # ("District 11 Democratic Club" vs "San Francisco District 11 Democratic Club"),
+    # so new names are matched on a normalised form before anything is added.
     orgs = [dict(o) for o in cfg_orgs["orgs"]]
-    known_sfe = {o["sfe"] for o in orgs if o.get("sfe")}
-    known_ob = {o["ob"] for o in orgs if o.get("ob")}
     excl = set(cfg_orgs.get("exclude_openballot", [])) | set(cfg_orgs.get("exclude_sfendorsements", []))
     sfe_with_data = {org for col in sfe_cols.values() for org in col} | set(sfe_judicial)
-    for name in sorted(sfe_with_data - known_sfe - excl):
-        orgs.append({"name": name, "sfe": name, "ob": None, "bloc": None, "featured": False, "auto": True})
-        notes["new_orgs"].append(f"{name} (sfendorsements.com)")
-    for name in sorted(set(ob_pos) - known_ob - excl):
+
+    def org_key(n):
+        n = n.lower().replace("&", " and ")
+        n = re.sub(r"[^a-z0-9 ]", " ", n)
+        n = re.sub(r"\b(san francisco|sf|the|of|lgbtq|local|association|assn)\b", " ", n)
+        n = re.sub(r"\bdemocratic\b", "dem", n)
+        return " ".join(n.split())
+
+    def find(key):
+        return next((o for o in orgs if key in {org_key(x) for x in (o.get("sfe"), o.get("ob"), o["name"]) if x}), None)
+
+    for name in sorted(sfe_with_data - {o["sfe"] for o in orgs if o.get("sfe")} - excl):
+        match = find(org_key(name))
+        if match and not match.get("sfe"):
+            match["sfe"] = name
+            notes["new_orgs"].append(f"{match['name']}: linked to its sfendorsements.com listing \"{name}\"")
+        elif not match:
+            orgs.append({"name": name, "sfe": name, "ob": None, "bloc": None, "featured": False, "auto": True})
+            notes["new_orgs"].append(f"{name} (sfendorsements.com)")
+    for name in sorted(set(ob_pos) - {o["ob"] for o in orgs if o.get("ob")} - excl):
         tags = brands[name]["tags"]
         if not tags or {"individual", "informational"} & set(tags):
             notes["skipped"].append(name)
             continue
-        orgs.append({"name": name, "sfe": None, "ob": name, "bloc": None, "featured": False, "auto": True})
-        notes["new_orgs"].append(f"{name} (openballot.app)")
+        match = find(org_key(name))
+        if match and not match.get("ob"):
+            match["ob"] = name
+            if match.get("auto"):
+                match["name"] = name  # OpenBallot's name is usually the fuller one
+            notes["new_orgs"].append(f"{match['name']}: linked to its openballot.app listing \"{name}\"")
+        elif not match:
+            orgs.append({"name": name, "sfe": None, "ob": name, "bloc": None, "featured": False, "auto": True})
+            notes["new_orgs"].append(f"{name} (openballot.app)")
     for o in cfg_orgs["orgs"]:
         if o.get("sfe") and o["sfe"] not in sfe_with_data and o.get("ob") not in ob_pos:
             notes["warnings"].append(f"{o['name']}: no positions found on either source")
+    dupes = sorted({o["name"] for o in orgs if sum(p["name"] == o["name"] for p in orgs) > 1})
+    if dupes:
+        raise BuildError(f"duplicate organization names: {dupes}. Link them in data/orgs.json.")
     by_name = {o["name"]: o for o in orgs}
 
     # --- cells

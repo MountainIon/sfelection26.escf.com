@@ -169,13 +169,6 @@
    "desc": "Advocates for more housing of all kinds. A chapter of YIMBY Action."
   },
   {
-   "name": "ConnectedSF",
-   "bloc": "mod",
-   "featured": false,
-   "url": "https://www.connectedsf.com/",
-   "desc": null
-  },
-  {
    "name": "Harvey Milk Club",
    "bloc": "prog",
    "featured": false,
@@ -358,18 +351,11 @@
    "desc": "Mobilizes seniors and people with disabilities to fight for social justice."
   },
   {
-   "name": "District 11 Democratic Club",
-   "bloc": "prog",
-   "featured": false,
-   "url": "https://www.sfd11dems.com/",
-   "desc": null
-  },
-  {
-   "name": "San Francisco Bay Guardian",
+   "name": "SF Bay Guardian",
    "bloc": "prog",
    "featured": false,
    "url": "http://www.sfbg.com/",
-   "desc": null
+   "desc": "Progressive online publication promoting left-wing issues in San Francisco."
   },
   {
    "name": "GLIDE",
@@ -379,25 +365,18 @@
    "desc": "Tenderloin social services nonprofit and church with a measures voter guide."
   },
   {
-   "name": "San Franciscans for Social Housing",
+   "name": "SF for Social Housing",
    "bloc": "prog",
    "featured": false,
    "url": "https://www.openballot.app/elections/california-general-election-2026/guides/san-franciscans-for-social-housing",
    "desc": "San Francisco social housing advocacy campaign."
   },
   {
-   "name": "San Francisco Affordable Housing Alliance",
+   "name": "SF Affordable Housing Alliance",
    "bloc": "prog",
    "featured": false,
    "url": "https://www.openballot.app/elections/california-general-election-2026/guides/san-francisco-affordable-housing-alliance",
    "desc": "Champions tenant protections and affordable housing in San Francisco."
-  },
-  {
-   "name": "San Francisco Bay Guardian",
-   "bloc": "prog",
-   "featured": false,
-   "url": "https://www.openballot.app/elections/california-general-election-2026/guides/san-francisco-bay-guardian",
-   "desc": "Progressive online publication promoting left-wing issues in San Francisco."
   },
   {
    "name": "SF Democratic Party",
@@ -470,17 +449,10 @@
    "desc": "Advocates for safe streets and a pedestrian-friendly San Francisco."
   },
   {
-   "name": "Home Sharers Democratic Club",
+   "name": "Home Sharers Dem Club",
    "bloc": "civic",
    "featured": false,
    "url": "https://www.homesharersdemclub.org/",
-   "desc": null
-  },
-  {
-   "name": "Home Sharers Democratic Club",
-   "bloc": "civic",
-   "featured": false,
-   "url": "https://www.openballot.app/elections/california-general-election-2026/guides/home-sharers-democratic-club",
    "desc": "Promotes fair home sharing policies for San Francisco residents and visitors."
   },
   {
@@ -548,10 +520,7 @@
     "Teamsters Joint Council 7": [
      "Xavier Becerra"
     ],
-    "District 11 Democratic Club": [
-     "Xavier Becerra"
-    ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Xavier Becerra"
     ],
     "SF Democratic Party": [
@@ -566,7 +535,7 @@
     "SF Building Trades Council": [
      "Xavier Becerra"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Xavier Becerra"
     ],
     "SF Republican Party": [
@@ -589,11 +558,11 @@
     "IFPTE Local 21": "https://ifpte21.org/endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-candidates-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -641,10 +610,7 @@
     "Teamsters Joint Council 7": [
      "Fiona Ma"
     ],
-    "District 11 Democratic Club": [
-     "Fiona Ma"
-    ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Fiona Ma"
     ],
     "SF Democratic Party": [
@@ -659,7 +625,7 @@
     "SF Building Trades Council": [
      "Fiona Ma"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Fiona Ma"
     ],
     "SF Republican Party": [
@@ -683,10 +649,10 @@
     "UNITE HERE Local 2": "https://www.unitehere2.org/2026/09/november-2026-election-endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -728,13 +694,10 @@
     "District 11 Dem Club": [
      "Shirley Weber"
     ],
-    "District 11 Democratic Club": [
+    "SF Bay Guardian": [
      "Shirley Weber"
     ],
-    "San Francisco Bay Guardian": [
-     "Shirley Weber"
-    ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Shirley Weber"
     ],
     "SF Democratic Party": [
@@ -752,7 +715,7 @@
     "SF Building Trades Council": [
      "Shirley Weber"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Shirley Weber"
     ],
     "SF Republican Party": [
@@ -771,12 +734,12 @@
     "SEIU 1021": "https://www.seiu1021.org/post/election-endorsements-nov-3-2026",
     "IFPTE Local 21": "https://ifpte21.org/endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -821,10 +784,7 @@
     "Teamsters Joint Council 7": [
      "Malia Cohen"
     ],
-    "District 11 Democratic Club": [
-     "Malia Cohen"
-    ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Malia Cohen"
     ],
     "SF Democratic Party": [
@@ -842,7 +802,7 @@
     "SF Building Trades Council": [
      "Malia Cohen"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Malia Cohen"
     ],
     "SF Republican Party": [
@@ -865,11 +825,11 @@
     "IFPTE Local 21": "https://ifpte21.org/endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -914,10 +874,7 @@
     "Teamsters Joint Council 7": [
      "Eleni Kounalakis"
     ],
-    "District 11 Democratic Club": [
-     "Eleni Kounalakis"
-    ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Eleni Kounalakis"
     ],
     "SF Democratic Party": [
@@ -935,7 +892,7 @@
     "SF Building Trades Council": [
      "Eleni Kounalakis"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Eleni Kounalakis"
     ],
     "SF Republican Party": [
@@ -958,11 +915,11 @@
     "UNITE HERE Local 2": "https://www.unitehere2.org/2026/09/november-2026-election-endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -1010,10 +967,7 @@
     "District 11 Dem Club": [
      "Rob Bonta"
     ],
-    "District 11 Democratic Club": [
-     "Rob Bonta"
-    ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Rob Bonta"
     ],
     "SF Democratic Party": [
@@ -1028,7 +982,7 @@
     "SF Building Trades Council": [
      "Rob Bonta"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Rob Bonta"
     ],
     "SF Republican Party": [
@@ -1052,11 +1006,11 @@
     "SEIU 1021": "https://www.seiu1021.org/post/election-endorsements-nov-3-2026",
     "IFPTE Local 21": "https://ifpte21.org/endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -1143,13 +1097,10 @@
     "Teamsters Joint Council 7": [
      "Connie Chan"
     ],
-    "District 11 Democratic Club": [
+    "SF Bay Guardian": [
      "Connie Chan"
     ],
-    "San Francisco Bay Guardian": [
-     "Connie Chan"
-    ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Connie Chan"
     ],
     "SF Democratic Party": [
@@ -1170,7 +1121,7 @@
     "SF Building Trades Council": [
      "Connie Chan"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Scott Wiener"
     ],
     "Streets For All SF": [
@@ -1205,14 +1156,14 @@
     "UNITE HERE Local 2": "https://www.unitehere2.org/2026/09/november-2026-election-endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations#ca11",
     "SF Bicycle Coalition": "https://sfbike.org/news/endorsing-scott-wiener-for-congress/",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "Streets For All SF": "https://www.streetsforallsf.org/blog/2026-streets-for-all-sf-endorsements"
    }
   },
@@ -1243,16 +1194,13 @@
     "Teamsters Joint Council 7": [
      "Kevin Mullin"
     ],
-    "District 11 Democratic Club": [
-     "Kevin Mullin"
-    ],
     "SF Democratic Party": [
      "Kevin Mullin"
     ],
     "SF Building Trades Council": [
      "Kevin Mullin"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Kevin Mullin"
     ],
     "SF Republican Party": [
@@ -1273,7 +1221,7 @@
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -1337,10 +1285,7 @@
     "Teamsters Joint Council 7": [
      "Matt Haney"
     ],
-    "District 11 Democratic Club": [
-     "Matt Haney"
-    ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Matt Haney"
     ],
     "SF Democratic Party": [
@@ -1355,7 +1300,7 @@
     "Potrero Hill Dems": [
      "Matt Haney"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Matt Haney"
     ],
     "SF Republican Party": [
@@ -1381,11 +1326,11 @@
     "IFPTE Local 21": "https://ifpte21.org/endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -1437,7 +1382,7 @@
     "SF Women's Political Cmte": [
      "Catherine Stefani"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Catherine Stefani"
     ],
     "SF Republican Party": [
@@ -1462,7 +1407,7 @@
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -1526,13 +1471,10 @@
     "Teamsters Joint Council 7": [
      "Jane Kim"
     ],
-    "District 11 Democratic Club": [
+    "SF Bay Guardian": [
      "Jane Kim"
     ],
-    "San Francisco Bay Guardian": [
-     "Jane Kim"
-    ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Jane Kim"
     ],
     "SF Democratic Party": [
@@ -1547,7 +1489,7 @@
     "Potrero Hill Dems": [
      "Jane Kim"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Ben Allen"
     ]
    },
@@ -1570,11 +1512,11 @@
     "UNITE HERE Local 2": "https://www.unitehere2.org/2026/09/november-2026-election-endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -1616,13 +1558,10 @@
     "District 11 Dem Club": [
      "Sally Lieber"
     ],
-    "District 11 Democratic Club": [
+    "SF Bay Guardian": [
      "Sally Lieber"
     ],
-    "San Francisco Bay Guardian": [
-     "Sally Lieber"
-    ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Sally Lieber"
     ],
     "SF Democratic Party": [
@@ -1634,7 +1573,7 @@
     "Potrero Hill Dems": [
      "Sally Lieber"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Sally Lieber"
     ],
     "SF Republican Party": [
@@ -1653,10 +1592,10 @@
     "SEIU 1021": "https://www.seiu1021.org/post/election-endorsements-nov-3-2026",
     "IFPTE Local 21": "https://ifpte21.org/endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -1705,13 +1644,10 @@
     "Teamsters Joint Council 7": [
      "Richard Barrera"
     ],
-    "District 11 Democratic Club": [
+    "SF Bay Guardian": [
      "Richard Barrera"
     ],
-    "San Francisco Bay Guardian": [
-     "Richard Barrera"
-    ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Richard Barrera"
     ],
     "SF Democratic Party": [
@@ -1723,7 +1659,7 @@
     "Potrero Hill Dems": [
      "Richard Barrera"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Richard Barrera"
     ],
     "SF Republican Party": [
@@ -1747,11 +1683,11 @@
     "IFPTE Local 21": "https://ifpte21.org/endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -1811,10 +1747,7 @@
     "District 11 Dem Club": [
      "Joaquin Torres"
     ],
-    "District 11 Democratic Club": [
-     "Joaquin Torres"
-    ],
-    "San Francisco Bay Guardian": [
+    "SF Bay Guardian": [
      "Joaquin Torres"
     ],
     "SF Democratic Party": [
@@ -1829,7 +1762,7 @@
     "SF Building Trades Council": [
      "Joaquin Torres"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Joaquin Torres"
     ]
    },
@@ -1851,12 +1784,12 @@
     "SF Solidarity Club": "https://www.sfsolidarity.com/endorsements",
     "UNITE HERE Local 2": "https://www.unitehere2.org/2026/09/november-2026-election-endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-candidates-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -1895,10 +1828,7 @@
     "District 11 Dem Club": [
      "Mano Raju"
     ],
-    "District 11 Democratic Club": [
-     "Mano Raju"
-    ],
-    "San Francisco Bay Guardian": [
+    "SF Bay Guardian": [
      "Mano Raju"
     ],
     "SF Democratic Party": [
@@ -1913,7 +1843,7 @@
     "SF Building Trades Council": [
      "Mano Raju"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Mano Raju"
     ]
    },
@@ -1928,12 +1858,12 @@
     "SF Solidarity Club": "https://www.sfsolidarity.com/endorsements",
     "UNITE HERE Local 2": "https://www.unitehere2.org/2026/09/november-2026-election-endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-candidates-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -2007,7 +1937,7 @@
     "SF Building Trades Council": [
      "Stephen Sherrill"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Stephen Sherrill"
     ],
     "SF Republican Party": [
@@ -2026,6 +1956,7 @@
     "Ed Lee Dem Club": "https://www.edleedems.org/nov2026#sf",
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Bay Area Reporter": "https://www.ebar.com/story/170743",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#district2",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Stephen%20Sherrill%20-%20District%202-1",
     "SF Labor Council": "https://www.sflaborcouncil.org/en/news-details/webview/our-endorsements/single/9251",
@@ -2035,7 +1966,7 @@
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations#d2",
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-sflcv-endorses-stephen-sherrill-for-district-2-supervisor",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -2101,10 +2032,10 @@
     "Teamsters Joint Council 7": [
      "Alan Wong"
     ],
-    "San Franciscans for Social Housing": [
+    "SF for Social Housing": [
      "Jeremy Greco"
     ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Alan Wong"
     ],
     "SF Democratic Party": [
@@ -2116,7 +2047,7 @@
     "SF Building Trades Council": [
      "Alan Wong"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Alan Wong"
     ],
     "SF Republican Party": [
@@ -2135,6 +2066,7 @@
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Westside Family Dems": "https://westsidefamilysf.com/current-endorsements",
     "Bay Area Reporter": "https://www.ebar.com/story/170743",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#district4",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Alan%20Wong%20-%20District%204-2",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
@@ -2142,12 +2074,12 @@
     "SF Green Party": "https://www.sfgreenparty.org/endorsements/123-november-2026-endorsements",
     "SF Solidarity Club": "https://www.sfsolidarity.com/endorsements",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/uncategorized/san-francisco-city-and-county-2026-general-election",
-    "San Franciscans for Social Housing": "https://sfsocialhousing.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF for Social Housing": "https://sfsocialhousing.org/endorsements",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-candidates-for-november-2026-election",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -2205,7 +2137,7 @@
     "Teamsters Joint Council 7": [
      "Matt Dorsey"
     ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Matt Dorsey"
     ],
     "SF Democratic Party": [
@@ -2223,7 +2155,7 @@
     "SF Building Trades Council": [
      "Matt Dorsey"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Matt Dorsey"
     ],
     "SF Republican Party": [
@@ -2243,17 +2175,18 @@
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
     "Bay Area Reporter": "https://www.ebar.com/story/170743",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#district6",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Matt%20Dorsey%20-%20District%206-3",
     "UNITE HERE Local 2": "https://www.unitehere2.org/2026/09/november-2026-election-endorsements/",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/uncategorized/san-francisco-city-and-county-2026-general-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations#d6",
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-sflcv-endorses-matt-dorsey-for-district-6-supervisor",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-candidates-for-november-2026-election",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -2334,16 +2267,16 @@
     "Teamsters Joint Council 7": [
      "Gary McCoy"
     ],
-    "San Francisco Bay Guardian": [
-     "Gary McCoy",
-     "Michael Nguyen"
+    "SF Bay Guardian": [
+     "Michael Nguyen",
+     "Gary McCoy"
     ],
-    "San Franciscans for Social Housing": [
+    "SF for Social Housing": [
      "Gary McCoy",
      "Michael Nguyen",
      "Darshini Patel"
     ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Gary McCoy"
     ],
     "SF Democratic Party": [
@@ -2361,9 +2294,9 @@
     "SF Building Trades Council": [
      "Gary McCoy"
     ],
-    "Home Sharers Democratic Club": [
-     "Gary McCoy",
-     "Michael Nguyen"
+    "Home Sharers Dem Club": [
+     "Michael Nguyen",
+     "Gary McCoy"
     ]
    },
    "sources": {
@@ -2388,15 +2321,15 @@
     "Indivisible SF": "https://indivisiblesf.org/endorsements",
     "UNITE HERE Local 2": "https://www.unitehere2.org/2026/09/november-2026-election-endorsements/",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/uncategorized/san-francisco-city-and-county-2026-general-election",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Franciscans for Social Housing": "https://sfsocialhousing.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF for Social Housing": "https://sfsocialhousing.org/endorsements",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations#d8",
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-sflcv-endorses-gary-mccoy-for-district-8-supervisor",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-candidates-for-november-2026-election",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -2483,15 +2416,15 @@
      "Dion-Jay \"DJ\" Brookter",
      "Theo Ellington"
     ],
-    "San Francisco Bay Guardian": [
+    "SF Bay Guardian": [
      "Dion-Jay \"DJ\" Brookter",
      "J.R. Eppler"
     ],
-    "San Franciscans for Social Housing": [
+    "SF for Social Housing": [
      "Dion-Jay \"DJ\" Brookter",
      "J.R. Eppler"
     ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Dion-Jay \"DJ\" Brookter"
     ],
     "SF Democratic Party": [
@@ -2515,9 +2448,9 @@
      "Theo Ellington",
      "J.R. Eppler"
     ],
-    "Home Sharers Democratic Club": [
-     "Theo Ellington",
-     "J.R. Eppler"
+    "Home Sharers Dem Club": [
+     "J.R. Eppler",
+     "Theo Ellington"
     ]
    },
    "sources": {
@@ -2534,6 +2467,7 @@
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
     "Bay Area Reporter": "https://www.ebar.com/story/170743",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#district10",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Theo%20Ellington%20-%20District%2010-6",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -2544,16 +2478,16 @@
     "SF Solidarity Club": "https://www.sfsolidarity.com/endorsements",
     "UNITE HERE Local 2": "https://www.unitehere2.org/2026/09/november-2026-election-endorsements/",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/uncategorized/san-francisco-city-and-county-2026-general-election",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Franciscans for Social Housing": "https://sfsocialhousing.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF for Social Housing": "https://sfsocialhousing.org/endorsements",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations#d10",
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-sflcv-endorses-theo-ellington-for-district-10-supervisor",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-candidates-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -2679,21 +2613,16 @@
      "Reina Tello"
     ],
     "District 11 Dem Club": [
-     "Virginia Cheung",
-     "Alida Fisher",
-     "Reina Tello"
-    ],
-    "District 11 Democratic Club": [
      "Alida Fisher",
      "Reina Tello",
      "Virginia Cheung"
     ],
-    "San Francisco Bay Guardian": [
+    "SF Bay Guardian": [
      "Virginia Cheung",
-     "Ryan Hazelton",
-     "Reina Tello"
+     "Reina Tello",
+     "Ryan Hazelton"
     ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Virginia Cheung",
      "Ryan Hazelton",
      "Reina Tello"
@@ -2723,10 +2652,10 @@
      "Ryan Hazelton",
      "Reina Tello"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
+     "Laurance Lee",
      "Alida Fisher",
-     "Phil Kim",
-     "Laurance Lee"
+     "Phil Kim"
     ],
     "SF Republican Party": [
      "Laurance Lee",
@@ -2760,13 +2689,13 @@
     "Indivisible SF": "https://indivisiblesf.org/blog/2026/9/29/indivisible-sf-endorses-the-uesf-slate-for-san-francisco-school-board-virginia-cheung-ryan-hazelton-and-reina-tello",
     "UNITE HERE Local 2": "https://www.unitehere2.org/2026/09/november-2026-election-endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-candidates-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_SlateCard26_final.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -2876,17 +2805,12 @@
      "Jeremy Lee",
      "Bunny McFadden"
     ],
-    "District 11 Democratic Club": [
+    "SF Bay Guardian": [
      "Leah LaCroix",
      "Jeremy Lee",
      "Bunny McFadden"
     ],
-    "San Francisco Bay Guardian": [
-     "Leah LaCroix",
-     "Jeremy Lee",
-     "Bunny McFadden"
-    ],
-    "San Francisco Affordable Housing Alliance": [
+    "SF Affordable Housing Alliance": [
      "Leah LaCroix",
      "Jeremy Lee",
      "Bunny McFadden"
@@ -2944,8 +2868,8 @@
     "Indivisible SF": "https://indivisiblesf.org/blog/2026/10/16/indivisible-sf-endorses-aft-slate-for-city-college-board",
     "UNITE HERE Local 2": "https://www.unitehere2.org/2026/09/november-2026-election-endorsements/",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements#page-stream",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-candidates-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
@@ -2993,9 +2917,6 @@
     "District 11 Dem Club": [
      "Ruth Ferguson"
     ],
-    "District 11 Democratic Club": [
-     "Ruth Ferguson"
-    ],
     "SF Democratic Party": [
      "Ruth Ferguson"
     ],
@@ -3005,7 +2926,7 @@
     "Potrero Hill Dems": [
      "Ruth Ferguson"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Ruth Ferguson"
     ]
    },
@@ -3025,7 +2946,7 @@
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-candidates-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -3076,7 +2997,7 @@
     "SF Building Trades Council": [
      "Sara Barz"
     ],
-    "Home Sharers Democratic Club": [
+    "Home Sharers Dem Club": [
      "Sara Barz"
     ],
     "Streets For All SF": [
@@ -3099,7 +3020,7 @@
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-sflcv-endorses-sara-barz-for-bart-district-8-director",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-candidates-for-november-2026-election",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "Streets For All SF": "https://www.streetsforallsf.org/blog/2026-streets-for-all-sf-endorsements"
    }
   },
@@ -3140,16 +3061,15 @@
     "United Way Bay Area": "Yes",
     "Haight Ashbury Neighborhood Cncl": "Yes",
     "Senior & Disability Action": "Yes",
-    "District 11 Democratic Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
+    "SF Bay Guardian": "Yes",
     "GLIDE": "Yes",
-    "San Franciscans for Social Housing": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF for Social Housing": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "Sierra Club SF Bay": "Yes",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "Yes",
-    "Home Sharers Democratic Club": "Yes"
+    "Home Sharers Dem Club": "Yes"
    },
    "sources": {
     "League of Pissed Off Voters": "https://www.theleaguesf.org/#Prop1",
@@ -3163,6 +3083,7 @@
     "Ed Lee Dem Club": "https://www.edleedems.org/nov2026#california",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
     "Bay Area Council": "https://www.bayareacouncil.org/government_relations/time-to-vote-bay-area-council-ballot-positions/",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-1",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -3181,15 +3102,15 @@
     "United Way Bay Area": "https://uwba.org/what-we-do/advocate/2026-bay-area-voter-guide/rationales-summaries/#ca-prop-1",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Franciscans for Social Housing": "https://sfsocialhousing.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF for Social Housing": "https://sfsocialhousing.org/endorsements",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -3217,13 +3138,12 @@
     "SF Solidarity Club": "Yes",
     "District 11 Dem Club": "Yes",
     "Teamsters Joint Council 7": "Yes",
-    "District 11 Democratic Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF Bay Guardian": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "Yes",
-    "Home Sharers Democratic Club": "Yes",
+    "Home Sharers Dem Club": "Yes",
     "SF Republican Party": "No"
    },
    "sources": {
@@ -3236,6 +3156,7 @@
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
     "Bay Area Council": "https://www.bayareacouncil.org/government_relations/time-to-vote-bay-area-council-ballot-positions/",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-2",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -3245,12 +3166,12 @@
     "SF Solidarity Club": "https://www.sfsolidarity.com/endorsements",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -3288,14 +3209,13 @@
     "United Way Bay Area": "Yes",
     "Haight Ashbury Neighborhood Cncl": "Yes",
     "Senior & Disability Action": "Yes",
-    "District 11 Democratic Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
+    "SF Bay Guardian": "Yes",
     "GLIDE": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "Yes",
-    "Home Sharers Democratic Club": "Yes",
+    "Home Sharers Dem Club": "Yes",
     "SF Republican Party": "No"
    },
    "sources": {
@@ -3308,6 +3228,7 @@
     "Ed Lee Dem Club": "https://www.edleedems.org/nov2026#california",
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-3",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -3326,13 +3247,13 @@
     "United Way Bay Area": "https://uwba.org/what-we-do/advocate/2026-bay-area-voter-guide/rationales-summaries/#ca-prop-3",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -3364,14 +3285,13 @@
     "Teamsters Joint Council 7": "Yes",
     "Haight Ashbury Neighborhood Cncl": "Yes",
     "Senior & Disability Action": "Yes",
-    "District 11 Democratic Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF Bay Guardian": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "Sierra Club SF Bay": "Yes",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "Yes",
-    "Home Sharers Democratic Club": "Yes",
+    "Home Sharers Dem Club": "Yes",
     "SF Republican Party": "No"
    },
    "sources": {
@@ -3384,6 +3304,7 @@
     "Ed Lee Dem Club": "https://www.edleedems.org/nov2026#california",
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-4",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -3397,13 +3318,13 @@
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -3432,14 +3353,13 @@
     "SF Solidarity Club": "Yes",
     "District 11 Dem Club": "Yes",
     "Teamsters Joint Council 7": "Yes",
-    "District 11 Democratic Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF Bay Guardian": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "Sierra Club SF Bay": "Yes",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "Yes",
-    "Home Sharers Democratic Club": "Yes",
+    "Home Sharers Dem Club": "Yes",
     "SF Republican Party": "No"
    },
    "sources": {
@@ -3452,6 +3372,7 @@
     "Ed Lee Dem Club": "https://www.edleedems.org/nov2026#california",
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-5",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -3462,13 +3383,13 @@
     "SF Solidarity Club": "https://www.sfsolidarity.com/endorsements",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Teamsters Joint Council 7": "https://teamstersjc7.org/endorsements",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -3493,12 +3414,12 @@
     "IFPTE Local 21": "Yes",
     "DSA San Francisco": "No",
     "SF Solidarity Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF Bay Guardian": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "Yes",
-    "Home Sharers Democratic Club": "Yes"
+    "Home Sharers Dem Club": "Yes"
    },
    "sources": {
     "SF Chronicle": "https://www.sfchronicle.com/opinion/editorials/article/prop-37-housing-home-loans-22422795.php",
@@ -3511,18 +3432,19 @@
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
     "Bay Area Council": "https://www.bayareacouncil.org/government_relations/time-to-vote-bay-area-council-ballot-positions/",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-37",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "SF Tenants Union": "https://sftu.org/endorsements",
     "SF Green Party": "https://www.sfgreenparty.org/endorsements/123-november-2026-endorsements",
     "IFPTE Local 21": "https://ifpte21.org/endorsements/",
     "DSA San Francisco": "https://dsasf.org/dsa-sf-november-2026-voter-guide/#proposition-37",
     "SF Solidarity Club": "https://www.sfsolidarity.com/endorsements",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -3546,8 +3468,8 @@
     "SF Solidarity Club": "No",
     "Haight Ashbury Neighborhood Cncl": "Yes",
     "Senior & Disability Action": "Yes",
-    "San Francisco Bay Guardian": "No",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF Bay Guardian": "No",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "SF Women's Political Cmte": "No",
     "Potrero Hill Dems": "No",
@@ -3562,6 +3484,7 @@
     "Ed Lee Dem Club": "https://www.edleedems.org/nov2026#california",
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Bay Area Council": "https://www.bayareacouncil.org/government_relations/time-to-vote-bay-area-council-ballot-positions/",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-38",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Green Party": "https://www.sfgreenparty.org/endorsements/123-november-2026-endorsements",
@@ -3569,8 +3492,8 @@
     "SF Solidarity Club": "https://www.sfsolidarity.com/endorsements",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/"
@@ -3611,15 +3534,14 @@
     "United Way Bay Area": "No",
     "Haight Ashbury Neighborhood Cncl": "No",
     "Senior & Disability Action": "No",
-    "District 11 Democratic Club": "No",
-    "San Francisco Bay Guardian": "No",
+    "SF Bay Guardian": "No",
     "GLIDE": "No",
-    "San Francisco Affordable Housing Alliance": "No",
+    "SF Affordable Housing Alliance": "No",
     "SF Democratic Party": "No",
     "Sierra Club SF Bay": "No",
     "SF Women's Political Cmte": "No",
     "Potrero Hill Dems": "No",
-    "Home Sharers Democratic Club": "No",
+    "Home Sharers Dem Club": "No",
     "SF Republican Party": "Yes",
     "SF Young Republicans": "Yes"
    },
@@ -3633,6 +3555,7 @@
     "Ed Lee Dem Club": "https://www.edleedems.org/nov2026#california",
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-39",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -3651,14 +3574,14 @@
     "United Way Bay Area": "https://uwba.org/what-we-do/advocate/2026-bay-area-voter-guide/rationales-summaries/#ca-prop-39",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -3695,14 +3618,13 @@
     "Transform": "Yes",
     "Haight Ashbury Neighborhood Cncl": "Yes",
     "Senior & Disability Action": "Yes",
-    "District 11 Democratic Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
+    "SF Bay Guardian": "Yes",
     "GLIDE": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "No",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "No",
-    "Home Sharers Democratic Club": "No",
+    "Home Sharers Dem Club": "No",
     "SF Republican Party": "No"
    },
    "sources": {
@@ -3715,6 +3637,7 @@
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
     "Bay Area Council": "https://www.bayareacouncil.org/government_relations/time-to-vote-bay-area-council-ballot-positions/",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-40",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -3734,13 +3657,13 @@
     "Transform": "https://transformca.org/transform-2026-ballot-proposition-guide",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -3776,14 +3699,13 @@
     "Transform": "No",
     "Haight Ashbury Neighborhood Cncl": "No",
     "Senior & Disability Action": "No",
-    "District 11 Democratic Club": "No",
-    "San Francisco Bay Guardian": "No",
+    "SF Bay Guardian": "No",
     "GLIDE": "No",
-    "San Francisco Affordable Housing Alliance": "No",
+    "SF Affordable Housing Alliance": "No",
     "SF Democratic Party": "No",
     "SF Women's Political Cmte": "No",
     "Potrero Hill Dems": "No",
-    "Home Sharers Democratic Club": "No",
+    "Home Sharers Dem Club": "No",
     "SF Republican Party": "Yes"
    },
    "sources": {
@@ -3797,6 +3719,7 @@
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
     "Bay Area Council": "https://www.bayareacouncil.org/government_relations/time-to-vote-bay-area-council-ballot-positions/",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-41",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -3813,13 +3736,13 @@
     "Transform": "https://transformca.org/transform-2026-ballot-proposition-guide",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -3856,14 +3779,13 @@
     "Transform": "No",
     "Haight Ashbury Neighborhood Cncl": "No",
     "Senior & Disability Action": "No",
-    "District 11 Democratic Club": "No",
-    "San Francisco Bay Guardian": "No",
+    "SF Bay Guardian": "No",
     "GLIDE": "No",
-    "San Francisco Affordable Housing Alliance": "No",
+    "SF Affordable Housing Alliance": "No",
     "SF Democratic Party": "No",
     "SF Women's Political Cmte": "No",
     "Potrero Hill Dems": "No",
-    "Home Sharers Democratic Club": "No",
+    "Home Sharers Dem Club": "No",
     "SF Republican Party": "Yes"
    },
    "sources": {
@@ -3877,6 +3799,7 @@
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
     "Bay Area Council": "https://www.bayareacouncil.org/government_relations/time-to-vote-bay-area-council-ballot-positions/",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-42",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -3894,13 +3817,13 @@
     "Transform": "https://transformca.org/transform-2026-ballot-proposition-guide",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -3942,16 +3865,15 @@
     "United Way Bay Area": "No",
     "Haight Ashbury Neighborhood Cncl": "No",
     "Senior & Disability Action": "No",
-    "District 11 Democratic Club": "No",
-    "San Francisco Bay Guardian": "No",
+    "SF Bay Guardian": "No",
     "GLIDE": "No",
-    "San Franciscans for Social Housing": "No",
-    "San Francisco Affordable Housing Alliance": "No",
+    "SF for Social Housing": "No",
+    "SF Affordable Housing Alliance": "No",
     "SF Democratic Party": "No",
     "Sierra Club SF Bay": "No",
     "SF Women's Political Cmte": "No",
     "Potrero Hill Dems": "No",
-    "Home Sharers Democratic Club": "No",
+    "Home Sharers Dem Club": "No",
     "Streets For All SF": "No",
     "SF Republican Party": "Yes"
    },
@@ -3966,6 +3888,7 @@
     "Ed Lee Dem Club": "https://www.edleedems.org/nov2026#california",
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-43",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -3988,15 +3911,15 @@
     "United Way Bay Area": "https://uwba.org/what-we-do/advocate/2026-bay-area-voter-guide/rationales-summaries/#ca-prop-43",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Franciscans for Social Housing": "https://sfsocialhousing.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF for Social Housing": "https://sfsocialhousing.org/endorsements",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "Streets For All SF": "https://www.streetsforallsf.org/blog/2026-streets-for-all-sf-endorsements"
    }
   },
@@ -4022,13 +3945,12 @@
     "SF Solidarity Club": "No",
     "District 11 Dem Club": "No",
     "Senior & Disability Action": "No",
-    "District 11 Democratic Club": "No",
-    "San Francisco Bay Guardian": "No",
-    "San Francisco Affordable Housing Alliance": "No",
+    "SF Bay Guardian": "No",
+    "SF Affordable Housing Alliance": "No",
     "SF Democratic Party": "No",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "No",
-    "Home Sharers Democratic Club": "No",
+    "Home Sharers Dem Club": "No",
     "SF Republican Party": "No"
    },
    "sources": {
@@ -4040,6 +3962,7 @@
     "Ed Lee Dem Club": "https://www.edleedems.org/nov2026#california",
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Eastern Neighborhoods Dems": "https://www.sfendc.com/endorsements",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-44",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "SF Tenants Union": "https://sftu.org/endorsements",
     "SF Green Party": "https://www.sfgreenparty.org/endorsements/123-november-2026-endorsements",
@@ -4048,12 +3971,12 @@
     "SF Solidarity Club": "https://www.sfsolidarity.com/endorsements",
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/"
    }
   },
   {
@@ -4088,14 +4011,13 @@
     "Transform": "No",
     "Haight Ashbury Neighborhood Cncl": "No",
     "Senior & Disability Action": "No",
-    "District 11 Democratic Club": "No",
-    "San Francisco Bay Guardian": "No",
-    "San Francisco Affordable Housing Alliance": "No",
+    "SF Bay Guardian": "No",
+    "SF Affordable Housing Alliance": "No",
     "SF Democratic Party": "No",
     "Sierra Club SF Bay": "No",
     "SF Women's Political Cmte": "No",
     "Potrero Hill Dems": "No",
-    "Home Sharers Democratic Club": "No",
+    "Home Sharers Dem Club": "No",
     "Streets For All SF": "No",
     "SF Republican Party": "Yes"
    },
@@ -4109,6 +4031,7 @@
     "Ed Lee Dem Club": "https://www.edleedems.org/nov2026#california",
     "Chinese American Dem Club": "https://www.sfcadc.org/cadc_11_2026_recommendations",
     "Bay Area Council": "https://www.bayareacouncil.org/government_relations/time-to-vote-bay-area-council-ballot-positions/",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-45",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -4125,13 +4048,13 @@
     "Transform": "https://transformca.org/transform-2026-ballot-proposition-guide",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "Streets For All SF": "https://www.streetsforallsf.org/blog/2026-streets-for-all-sf-endorsements"
    }
   },
@@ -4174,13 +4097,12 @@
     "District 11 Dem Club": "No",
     "Haight Ashbury Neighborhood Cncl": "No",
     "Senior & Disability Action": "No",
-    "District 11 Democratic Club": "No",
-    "San Francisco Bay Guardian": "No",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF Bay Guardian": "No",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "SF League of Conservation Voters": "Yes",
     "SF Women's Political Cmte": "Yes",
-    "Home Sharers Democratic Club": "Yes",
+    "Home Sharers Dem Club": "Yes",
     "SF Republican Party": "Yes"
    },
    "sources": {
@@ -4203,6 +4125,7 @@
     "sf.citi": "https://sfciti.org/sf-citi-voter-guide-november-2026-election-in-san-francisco#prop-a",
     "Bay Area Reporter": "https://www.ebar.com/story/170564",
     "SF Chamber of Commerce": "https://sfchamber.com/november-2026-voter-guide",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-a",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Prop%20A%3A%20Charter%20Changes%20Affecting%20Various%20City%20Departments%20and%20Commissions-1",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
@@ -4218,12 +4141,12 @@
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-vote-yes-on-proposition-a-charter-changes-affecting-departments-and-commissions",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -4272,17 +4195,16 @@
     "United Way Bay Area": "Yes",
     "Haight Ashbury Neighborhood Cncl": "Yes",
     "Senior & Disability Action": "Yes",
-    "District 11 Democratic Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
+    "SF Bay Guardian": "Yes",
     "GLIDE": "Yes",
-    "San Franciscans for Social Housing": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF for Social Housing": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "SF League of Conservation Voters": "Yes",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "Yes",
     "SF Building Trades Council": "Yes",
-    "Home Sharers Democratic Club": "Yes",
+    "Home Sharers Dem Club": "Yes",
     "SF Republican Party": "No",
     "SF Young Republicans": "No"
    },
@@ -4304,6 +4226,7 @@
     "sf.citi": "https://sfciti.org/sf-citi-voter-guide-november-2026-election-in-san-francisco#prop-b",
     "Bay Area Reporter": "https://www.ebar.com/story/170564",
     "SF Chamber of Commerce": "https://sfchamber.com/november-2026-voter-guide",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-b",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -4326,16 +4249,16 @@
     "United Way Bay Area": "https://uwba.org/what-we-do/advocate/2026-bay-area-voter-guide/rationales-summaries/#san-francisco-b",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Franciscans for Social Housing": "https://sfsocialhousing.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF for Social Housing": "https://sfsocialhousing.org/endorsements",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-vote-yes-on-prop-b-to-establish-a-municipal-finance-corporation-and-public-bank",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -4382,18 +4305,17 @@
     "United Way Bay Area": "Yes",
     "Haight Ashbury Neighborhood Cncl": "Yes",
     "Senior & Disability Action": "Yes",
-    "District 11 Democratic Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
+    "SF Bay Guardian": "Yes",
     "GLIDE": "Yes",
-    "San Franciscans for Social Housing": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF for Social Housing": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "Sierra Club SF Bay": "Yes",
     "SF League of Conservation Voters": "Yes",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "Yes",
     "SF Building Trades Council": "Yes",
-    "Home Sharers Democratic Club": "Yes",
+    "Home Sharers Dem Club": "Yes",
     "SF Republican Party": "No"
    },
    "sources": {
@@ -4415,6 +4337,7 @@
     "sf.citi": "https://sfciti.org/sf-citi-voter-guide-november-2026-election-in-san-francisco#prop-c",
     "Bay Area Reporter": "https://www.ebar.com/story/170564",
     "SF Chamber of Commerce": "https://sfchamber.com/november-2026-voter-guide",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-c",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Prop%20C%3A%20Housing%20Trust%20Fund-2",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
@@ -4435,17 +4358,17 @@
     "United Way Bay Area": "https://uwba.org/what-we-do/advocate/2026-bay-area-voter-guide/rationales-summaries/#san-francisco-c",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Franciscans for Social Housing": "https://sfsocialhousing.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF for Social Housing": "https://sfsocialhousing.org/endorsements",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations#housing",
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-vote-yes-on-proposition-c-the-housing-trust-fund-charter-amendment",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -4494,11 +4417,10 @@
     "Faith in Action Bay Area": "No",
     "Haight Ashbury Neighborhood Cncl": "No",
     "Senior & Disability Action": "No",
-    "District 11 Democratic Club": "No",
-    "San Francisco Bay Guardian": "No",
+    "SF Bay Guardian": "No",
     "GLIDE": "No",
-    "San Franciscans for Social Housing": "No",
-    "San Francisco Affordable Housing Alliance": "No",
+    "SF for Social Housing": "No",
+    "SF Affordable Housing Alliance": "No",
     "SF Democratic Party": "Yes",
     "SF League of Conservation Voters": "Yes",
     "SF Women's Political Cmte": "No",
@@ -4525,6 +4447,7 @@
     "sf.citi": "https://sfciti.org/sf-citi-voter-guide-november-2026-election-in-san-francisco#prop-d",
     "Bay Area Reporter": "https://www.ebar.com/story/170564",
     "SF Chamber of Commerce": "https://sfchamber.com/november-2026-voter-guide",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-d",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Prop%20D%3A%20Changes%20To%20Ballot%20Measure%20Thresholds-3",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
@@ -4545,10 +4468,10 @@
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Franciscans for Social Housing": "https://sfsocialhousing.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF for Social Housing": "https://sfsocialhousing.org/endorsements",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-vote-yes-on-prop-d-for-hopefully-shorter-ballots",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
@@ -4596,14 +4519,13 @@
     "District 11 Dem Club": "No",
     "Haight Ashbury Neighborhood Cncl": "No",
     "Senior & Disability Action": "No",
-    "District 11 Democratic Club": "No",
-    "San Francisco Bay Guardian": "No",
-    "San Francisco Affordable Housing Alliance": "No",
+    "SF Bay Guardian": "No",
+    "SF Affordable Housing Alliance": "No",
     "SF Democratic Party": "Yes",
     "SF League of Conservation Voters": "Yes",
     "SF Women's Political Cmte": "No",
     "SF Building Trades Council": "Yes",
-    "Home Sharers Democratic Club": "Yes",
+    "Home Sharers Dem Club": "Yes",
     "SF Republican Party": "Yes"
    },
    "sources": {
@@ -4626,6 +4548,7 @@
     "sf.citi": "https://sfciti.org/sf-citi-voter-guide-november-2026-election-in-san-francisco#prop-e",
     "Bay Area Reporter": "https://www.ebar.com/story/170564",
     "SF Chamber of Commerce": "https://sfchamber.com/november-2026-voter-guide",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-e",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Prop%20E%3A%20Changes%20to%20City%20Administrator/Contracting-4",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
@@ -4642,13 +4565,13 @@
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-vote-yes-on-proposition-e-the-city-administrator-and-city-contracting-reform-charter-amendment",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -4693,14 +4616,13 @@
     "District 11 Dem Club": "No",
     "Haight Ashbury Neighborhood Cncl": "No",
     "Senior & Disability Action": "No",
-    "District 11 Democratic Club": "No",
-    "San Francisco Bay Guardian": "No",
-    "San Francisco Affordable Housing Alliance": "No",
+    "SF Bay Guardian": "No",
+    "SF Affordable Housing Alliance": "No",
     "SF Democratic Party": "Yes",
     "SF Women's Political Cmte": "No",
     "Potrero Hill Dems": "No",
     "SF Building Trades Council": "Yes",
-    "Home Sharers Democratic Club": "Yes",
+    "Home Sharers Dem Club": "Yes",
     "SF Republican Party": "Yes"
    },
    "sources": {
@@ -4723,6 +4645,7 @@
     "sf.citi": "https://sfciti.org/sf-citi-voter-guide-november-2026-election-in-san-francisco#prop-f",
     "Bay Area Reporter": "https://www.ebar.com/story/170564",
     "SF Chamber of Commerce": "https://sfchamber.com/november-2026-voter-guide",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-f",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Prop%20F%20-%20Changes%20to%20Executive%20Branch%20Management-5",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
@@ -4740,13 +4663,13 @@
     "District 11 Dem Club": "https://www.sfd11dems.com/nov2026endorsements",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -4774,7 +4697,7 @@
     "Indivisible SF": "No",
     "UNITE HERE Local 2": "Yes",
     "Transform": "No",
-    "San Francisco Bay Guardian": "Yes",
+    "SF Bay Guardian": "Yes",
     "SF Democratic Party": "No",
     "Sierra Club SF Bay": "No",
     "SF League of Conservation Voters": "No",
@@ -4799,6 +4722,7 @@
     "Westside Family Dems": "https://westsidefamilysf.com/current-endorsements",
     "Noe Valley Dems": "https://www.noevalleydemocrats.org/endorsements",
     "Bay Area Reporter": "https://www.ebar.com/story/170564",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-g",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Prop%20G%20-%20Allowing%20Private%20Vehicles%20on%20the%20Great%20Highway%20in%20Sunset%20Dunes%20Park-6",
     "SEIU 1021": "https://www.seiu1021.org/post/election-endorsements-nov-3-2026",
@@ -4808,7 +4732,7 @@
     "Indivisible SF": "https://indivisiblesf.org/endorsements",
     "UNITE HERE Local 2": "https://www.unitehere2.org/2026/09/november-2026-election-endorsements/",
     "Transform": "https://transformca.org/transform-2026-ballot-proposition-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations#sunsetdunes",
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-vote-no-on-prop-g-to-protect-sunset-dunes-park-recreation-space-and-san-franciscos-budget",
@@ -4869,10 +4793,9 @@
     "United Way Bay Area": "Yes",
     "Haight Ashbury Neighborhood Cncl": "Yes",
     "Senior & Disability Action": "Yes",
-    "District 11 Democratic Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
+    "SF Bay Guardian": "Yes",
     "GLIDE": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "Sierra Club SF Bay": "Yes",
     "SF League of Conservation Voters": "Yes",
@@ -4882,7 +4805,7 @@
     "Seamless Bay Area": "Yes",
     "SF Building Trades Council": "Yes",
     "Walk San Francisco": "Yes",
-    "Home Sharers Democratic Club": "Yes",
+    "Home Sharers Dem Club": "Yes",
     "Streets For All SF": "Yes",
     "SF Republican Party": "No"
    },
@@ -4906,6 +4829,7 @@
     "sf.citi": "https://sfciti.org/sf-citi-voter-guide-november-2026-election-in-san-francisco#prop-h",
     "Bay Area Reporter": "https://www.ebar.com/story/170564",
     "SF Chamber of Commerce": "https://sfchamber.com/november-2026-voter-guide",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-h",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Prop%20H%3A%20Stronger%20Muni%20for%20All-7",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
@@ -4930,9 +4854,9 @@
     "United Way Bay Area": "https://uwba.org/what-we-do/advocate/2026-bay-area-voter-guide/rationales-summaries/#san-francisco-h",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations#MUNI",
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-vote-yes-on-prop-h-and-rtm",
@@ -4942,7 +4866,7 @@
     "Seamless Bay Area": "https://www.seamlessbayarea.org/2026-regional-measure",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
     "Walk San Francisco": "https://walksf.org/2026/09/02/a-walkable-sf-depends-on-transit-vote-yes-on-measures-h-rtm/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "Streets For All SF": "https://www.streetsforallsf.org/blog/2026-streets-for-all-sf-endorsements",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
@@ -4992,17 +4916,16 @@
     "United Way Bay Area": "Yes",
     "Haight Ashbury Neighborhood Cncl": "Yes",
     "Senior & Disability Action": "Yes",
-    "District 11 Democratic Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
+    "SF Bay Guardian": "Yes",
     "GLIDE": "Yes",
-    "San Franciscans for Social Housing": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF for Social Housing": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "No",
     "Sierra Club SF Bay": "Yes",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "Yes",
     "SF Building Trades Council": "No",
-    "Home Sharers Democratic Club": "No",
+    "Home Sharers Dem Club": "No",
     "SF Republican Party": "No"
    },
    "sources": {
@@ -5025,6 +4948,7 @@
     "sf.citi": "https://sfciti.org/sf-citi-voter-guide-november-2026-election-in-san-francisco#prop-i",
     "Bay Area Reporter": "https://www.ebar.com/story/170564",
     "SF Chamber of Commerce": "https://sfchamber.com/november-2026-voter-guide",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-i",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Prop%20I%20-%20Changes%20to%20Real%20Property%20Transfer%20Tax-8",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
@@ -5045,16 +4969,16 @@
     "United Way Bay Area": "https://uwba.org/what-we-do/advocate/2026-bay-area-voter-guide/rationales-summaries/#san-francisco-i",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Franciscans for Social Housing": "https://sfsocialhousing.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF for Social Housing": "https://sfsocialhousing.org/endorsements",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/november-2026-combined-endorsements-explanations#affordablehousing",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -5094,16 +5018,15 @@
     "Council of Community Housing Orgs": "Yes",
     "Haight Ashbury Neighborhood Cncl": "Yes",
     "Senior & Disability Action": "Yes",
-    "District 11 Democratic Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
+    "SF Bay Guardian": "Yes",
     "GLIDE": "Yes",
-    "San Franciscans for Social Housing": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF for Social Housing": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "Yes",
     "SF Building Trades Council": "Yes",
-    "Home Sharers Democratic Club": "Yes",
+    "Home Sharers Dem Club": "Yes",
     "SF Republican Party": "No"
    },
    "sources": {
@@ -5123,6 +5046,7 @@
     "Noe Valley Dems": "https://www.noevalleydemocrats.org/endorsements",
     "Bay Area Council": "https://www.bayareacouncil.org/government_relations/time-to-vote-bay-area-council-ballot-positions/",
     "Bay Area Reporter": "https://www.ebar.com/story/170564",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-j",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
     "SF Tenants Union": "https://sftu.org/endorsements",
@@ -5138,15 +5062,15 @@
     "Council of Community Housing Orgs": "https://www.sfccho.org/endorsements",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Franciscans for Social Housing": "https://sfsocialhousing.org/endorsements",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF for Social Housing": "https://sfsocialhousing.org/endorsements",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "SF Women's Political Cmte": "https://sfwpc.org/pac-recommendations-for-ballot-measures-for-november-2026-election",
     "Potrero Hill Dems": "https://phdemclub.org/endorsements-for-november-3-2026-general-election/",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
   },
@@ -5197,10 +5121,9 @@
     "United Way Bay Area": "Yes",
     "Haight Ashbury Neighborhood Cncl": "Yes",
     "Senior & Disability Action": "Yes",
-    "District 11 Democratic Club": "Yes",
-    "San Francisco Bay Guardian": "Yes",
+    "SF Bay Guardian": "Yes",
     "GLIDE": "Yes",
-    "San Francisco Affordable Housing Alliance": "Yes",
+    "SF Affordable Housing Alliance": "Yes",
     "SF Democratic Party": "Yes",
     "Sierra Club SF Bay": "Yes",
     "SF League of Conservation Voters": "Yes",
@@ -5210,7 +5133,7 @@
     "Seamless Bay Area": "Yes",
     "SF Building Trades Council": "Yes",
     "Walk San Francisco": "Yes",
-    "Home Sharers Democratic Club": "Yes",
+    "Home Sharers Dem Club": "Yes",
     "Streets For All SF": "Yes",
     "SF Republican Party": "No"
    },
@@ -5233,6 +5156,7 @@
     "sf.citi": "https://sfciti.org/sf-citi-voter-guide-november-2026-election-in-san-francisco#regional",
     "Bay Area Reporter": "https://www.ebar.com/story/170564",
     "SF Chamber of Commerce": "https://sfchamber.com/november-2026-voter-guide",
+    "ConnectedSF": "https://www.connectedsf.com/2026-voter-guide#prop-rtm",
     "SF Briones Society": "https://www.brionessociety.org/voterguide-nov-2026#arguments",
     "SF YIMBY": "https://sfyimby.org/endorsements/sf-2026-general-election#Regional%20Transit%20Measure-9",
     "Harvey Milk Club": "https://milkclub.org/endorsements",
@@ -5255,9 +5179,9 @@
     "United Way Bay Area": "https://uwba.org/what-we-do/advocate/2026-bay-area-voter-guide/rationales-summaries/#regional-rtm",
     "Haight Ashbury Neighborhood Cncl": "https://www.hanc-sf.org/the-voice-and-docs/func-download/297/chk,4343490932f51c7d791a0ded02024966/no_html,1",
     "Senior & Disability Action": "https://www.sdaction.org/november-2026-ballot-measure-guide",
-    "San Francisco Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
+    "SF Bay Guardian": "https://www.sfbg.com/2026/10/06/endorsements-for-the-november-3-2026-election",
     "GLIDE": "https://www.glide.org/voter-guide-2026/",
-    "San Francisco Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
+    "SF Affordable Housing Alliance": "https://www.sfaffordablehousingalliance.org",
     "SF Democratic Party": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
     "Sierra Club SF Bay": "https://www.sierraclub.org/sfbay/2026-endorsements",
     "SF League of Conservation Voters": "https://www.sflcv.org/blog/2026/9/29/november-2026-vote-yes-on-prop-h-and-rtm",
@@ -5267,7 +5191,7 @@
     "Seamless Bay Area": "https://www.seamlessbayarea.org/2026-regional-measure",
     "SF Building Trades Council": "https://sfbuildingtrades.org/s/SFBCTC_MidtermEndorsements.pdf",
     "Walk San Francisco": "https://walksf.org/2026/09/02/a-walkable-sf-depends-on-transit-vote-yes-on-measures-h-rtm/",
-    "Home Sharers Democratic Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
+    "Home Sharers Dem Club": "https://www.homesharersdemclub.org/2026/10/hsdc-endorsements-november-3-2026/",
     "Streets For All SF": "https://www.streetsforallsf.org/blog/2026-streets-for-all-sf-endorsements",
     "SF Republican Party": "https://sfgop.org/nov-2026-endorsements"
    }
@@ -5278,7 +5202,7 @@
     "League of Pissed Off Voters": "Yes",
     "SF Chronicle": "Yes",
     "GrowSF": "Yes",
-    "San Francisco Bay Guardian": "Yes",
+    "SF Bay Guardian": "Yes",
     "Potrero Hill Dems": "Yes"
    },
    "sources": {}
@@ -5637,5 +5561,5 @@
    "note": null
   }
  ],
- "updated": "October 23, 2026 at 2:56 PM PT"
+ "updated": "October 23, 2026 at 4:35 PM PT"
 }
