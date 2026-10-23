@@ -5063,6 +5063,7 @@
    "positions": {
     "League of Pissed Off Voters": "Yes",
     "League of Women Voters": "Yes",
+    "SF Chronicle": "Yes",
     "SPUR": "Yes",
     "GrowSF": "Yes",
     "Blueprint SF (fka TogetherSF)": "No",
@@ -5108,6 +5109,7 @@
    "sources": {
     "League of Pissed Off Voters": "https://www.theleaguesf.org/#PropJ",
     "League of Women Voters": "https://lwvsf.org/ballot-recommendations",
+    "SF Chronicle": "https://www.sfchronicle.com/opinion/editorials/article/prop-j-san-francisco-ballot-22486374.php",
     "SPUR": "https://www.spur.org/voter-guide/2026-11/sf-prop-j-transfer-tax-foreclosures",
     "GrowSF": "https://growsf.org/voter-guide/san-francisco-voter-guide-november-2026-election#prop-j",
     "Blueprint SF (fka TogetherSF)": "https://www.sfblueprint.org/advocacy/november-2026-voter-guide",
@@ -5282,7 +5284,7 @@
    "sources": {}
   }
  ],
- "notice": "The Chronicle is still publishing endorsements (D8, D10, Props F, J and 40 are pending), so its column is incomplete.",
+ "notice": "The Chronicle has not yet endorsed on Prop 40.",
  "races_meta": [
   {
    "id": "Governor",
@@ -5635,5 +5637,5 @@
    "note": null
   }
  ],
- "updated": "October 23, 2026 at 2:33 PM PT"
+ "updated": "October 23, 2026 at 2:56 PM PT"
 }
