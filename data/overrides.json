@@ -1,6 +1,6 @@
 {
  "_about": "Manual corrections applied after merging sources. Use for positions an organization published on its own site that the aggregators have not picked up yet. value: \"Yes\"/\"No\" for measures, list of names for races, null to remove.",
- "notice": "The Chronicle is still publishing endorsements (D8, D10, Props F, J and 40 are pending), so its column is incomplete.",
+ "notice": "The Chronicle has not yet endorsed on Prop 40.",
  "names": {
   "Manohar Raju": "Mano Raju",
   "Emanuel \"Manny\" Yekutiel": "Manny Yekutiel",
@@ -82,6 +82,13 @@
    "value": "No",
    "source": "https://www.sfdems.org/endorsements/nov-3-2026-general-election",
    "added": "2026-10-12"
+  },
+  {
+   "org": "SF Chronicle",
+   "race": "Prop J",
+   "value": "Yes",
+   "source": "https://www.sfchronicle.com/opinion/editorials/article/prop-j-san-francisco-ballot-22486374.php",
+   "added": "2026-10-23"
   }
  ]
 }
