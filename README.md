@@ -55,3 +55,4 @@ Optional: verify `escf.com` under your GitHub account settings (Pages → Verifi
 ## Credits
 
 Data compiled from [SFEndorsements](https://sfendorsements.com/) by Peter Xu and [OpenBallot](https://www.openballot.app/). Logos via OpenBallot. Each cell links to the organization's own published guide.
+# sfelection26.escf.com
