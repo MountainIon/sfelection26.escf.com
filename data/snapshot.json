@@ -393,6 +393,13 @@
    "desc": null
   },
   {
+   "name": "California DSA",
+   "bloc": "prog",
+   "featured": false,
+   "url": "https://www.californiadsa.org/",
+   "desc": null
+  },
+  {
    "name": "SF Democratic Party",
    "bloc": "civic",
    "featured": false,
@@ -1510,9 +1517,6 @@
     "IFPTE Local 21": [
      "Jane Kim"
     ],
-    "DSA San Francisco": [
-     "Jane Kim"
-    ],
     "SF Solidarity Club": [
      "Jane Kim"
     ],
@@ -1532,6 +1536,9 @@
      "Jane Kim"
     ],
     "Bernal Heights Democratic Club": [
+     "Jane Kim"
+    ],
+    "California DSA": [
      "Jane Kim"
     ],
     "SF Democratic Party": [
@@ -1616,9 +1623,6 @@
     "IFPTE Local 21": [
      "Sally Lieber"
     ],
-    "DSA San Francisco": [
-     "Sally Lieber"
-    ],
     "District 11 Dem Club": [
      "Sally Lieber"
     ],
@@ -1629,6 +1633,9 @@
      "Sally Lieber"
     ],
     "Bernal Heights Democratic Club": [
+     "Sally Lieber"
+    ],
+    "California DSA": [
      "Sally Lieber"
     ],
     "SF Democratic Party": [
@@ -3224,6 +3231,7 @@
     "SF for Social Housing": "Yes",
     "SF Affordable Housing Alliance": "Yes",
     "Bernal Heights Democratic Club": "Yes",
+    "California DSA": "Yes",
     "SF Democratic Party": "Yes",
     "Sierra Club SF Bay": "Yes",
     "SF Women's Political Cmte": "Yes",
@@ -3295,13 +3303,13 @@
     "SF Labor Council": "Yes",
     "Westside Forward": "Yes",
     "IFPTE Local 21": "Yes",
-    "DSA San Francisco": "Yes",
     "SF Solidarity Club": "Yes",
     "District 11 Dem Club": "Yes",
     "Teamsters Joint Council 7": "Yes",
     "SF Bay Guardian": "Yes",
     "SF Affordable Housing Alliance": "Yes",
     "Bernal Heights Democratic Club": "Yes",
+    "California DSA": "Yes",
     "SF Democratic Party": "Yes",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "Yes",
@@ -3376,6 +3384,7 @@
     "GLIDE": "Yes",
     "SF Affordable Housing Alliance": "Yes",
     "Bernal Heights Democratic Club": "Yes",
+    "California DSA": "Yes",
     "SF Democratic Party": "Yes",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "Yes",
@@ -3457,6 +3466,7 @@
     "SF Bay Guardian": "Yes",
     "SF Affordable Housing Alliance": "Yes",
     "Bernal Heights Democratic Club": "Yes",
+    "California DSA": "Yes",
     "SF Democratic Party": "Yes",
     "Sierra Club SF Bay": "Yes",
     "SF Women's Political Cmte": "Yes",
@@ -3527,6 +3537,7 @@
     "SF Bay Guardian": "Yes",
     "SF Affordable Housing Alliance": "Yes",
     "Bernal Heights Democratic Club": "Yes",
+    "California DSA": "Yes",
     "SF Democratic Party": "Yes",
     "Sierra Club SF Bay": "Yes",
     "SF Women's Political Cmte": "Yes",
@@ -3646,6 +3657,7 @@
     "SF Bay Guardian": "No",
     "SF Affordable Housing Alliance": "Yes",
     "Bernal Heights Democratic Club": "Yes",
+    "California DSA": "No",
     "SF Democratic Party": "Yes",
     "SF Women's Political Cmte": "No",
     "Potrero Hill Dems": "No",
@@ -3714,6 +3726,7 @@
     "GLIDE": "No",
     "SF Affordable Housing Alliance": "No",
     "Bernal Heights Democratic Club": "No",
+    "California DSA": "No",
     "SF Democratic Party": "No",
     "Sierra Club SF Bay": "No",
     "SF Women's Political Cmte": "No",
@@ -3803,6 +3816,7 @@
     "GLIDE": "Yes",
     "SF Affordable Housing Alliance": "Yes",
     "Bernal Heights Democratic Club": "Yes",
+    "California DSA": "Yes",
     "SF Democratic Party": "No",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "No",
@@ -3891,6 +3905,7 @@
     "GLIDE": "No",
     "SF Affordable Housing Alliance": "No",
     "Bernal Heights Democratic Club": "No",
+    "California DSA": "No",
     "SF Democratic Party": "No",
     "SF Women's Political Cmte": "No",
     "Potrero Hill Dems": "No",
@@ -3977,6 +3992,7 @@
     "GLIDE": "No",
     "SF Affordable Housing Alliance": "No",
     "Bernal Heights Democratic Club": "No",
+    "California DSA": "No",
     "SF Democratic Party": "No",
     "SF Women's Political Cmte": "No",
     "Potrero Hill Dems": "No",
@@ -4070,6 +4086,7 @@
     "SF for Social Housing": "No",
     "SF Affordable Housing Alliance": "No",
     "Bernal Heights Democratic Club": "No",
+    "California DSA": "No",
     "SF Democratic Party": "No",
     "Sierra Club SF Bay": "No",
     "SF Women's Political Cmte": "No",
@@ -4147,13 +4164,13 @@
     "SF Labor Council": "Yes",
     "Chinese for Affirmative Action": "No",
     "IFPTE Local 21": "Yes",
-    "DSA San Francisco": "Yes",
     "SF Solidarity Club": "No",
     "District 11 Dem Club": "No",
     "Senior & Disability Action": "No",
     "SF Bay Guardian": "No",
     "SF Affordable Housing Alliance": "No",
     "Bernal Heights Democratic Club": "Yes",
+    "California DSA": "Yes",
     "SF Democratic Party": "No",
     "SF Women's Political Cmte": "Yes",
     "Potrero Hill Dems": "No",
@@ -4225,6 +4242,7 @@
     "SF Bay Guardian": "No",
     "SF Affordable Housing Alliance": "No",
     "Bernal Heights Democratic Club": "No",
+    "California DSA": "No",
     "SF Democratic Party": "No",
     "Sierra Club SF Bay": "No",
     "SF Women's Political Cmte": "No",
@@ -5394,6 +5412,7 @@
     "GLIDE": "Yes",
     "SF Affordable Housing Alliance": "Yes",
     "Bernal Heights Democratic Club": "Yes",
+    "California DSA": "Yes",
     "SF Democratic Party": "Yes",
     "Sierra Club SF Bay": "Yes",
     "SF League of Conservation Voters": "Yes",
@@ -5834,5 +5853,5 @@
    "note": null
   }
  ],
- "updated": "November 2, 2026 at 11:19 AM PT"
+ "updated": "November 14, 2026 at 4:58 AM PT"
 }
